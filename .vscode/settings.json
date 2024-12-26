@@ -1,0 +1,8 @@
+{
+    "typescript.tsserver.web.typeAcquisition.enabled": true,
+    "cSpell.words": [
+        "Lusitana"
+    ],
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.formatOnSave": true
+}
